@@ -4,80 +4,100 @@
   font-size: 36.5px;
   border-style: dashed;
   border-width: 5px;
+  font-weight: 700;
 }
 
 .big {
   font-size: 36.5px;
+  font-weight: 700;
 }
 
 .medium {
   font-size: 21px;
+  font-weight: 700;
 }
 
 .small {
   font-size: 12px;
+  font-weight: 700;
 }
 
+/* Colors */
 .red {
   font-family: monospace;
   color: #ff005d;
+  font-weight: 700;
 }
 
 .scarlet {
   font-family: monospace;
   color: #FF2400;
+  font-weight: 700;
 }
 
 .orange {
   font-family: monospace;
   color: #ffa200;
+  font-weight: 700;
 }
 
 .yellow {
   font-family: monospace;
   color: #fff200;
+  font-weight: 700;
 }
 
 .lime {
   font-family: monospace;
   color: #a6ff00;
+  font-weight: 700;
 }
 
 .green {
   font-family: monospace;
   color: #03fc4e;
+  font-weight: 700;
 }
 
 .seafoam {
   font-family: monospace;
   color: #0dffaa; 
+  font-weight: 700;
 }
 
 .blue {
   font-family: monospace;
   color: #03dffc;
+  font-weight: 700;
 }
 
 .navy {
   font-family: monospace;
   color: #000080;
+  font-weight: 700;
 }
+/* Colors */
 
+/* Buttons */
 .button {
   padding: 10px 40px;
   border-radius: 8px;
   transition-duration: 0.2s;
   border-color: #DC143C;
   background-color: white;
+  font-weight: 700;
 }
 
 .button:hover {
   background-color: red;
   border-color: #F8F8FF;
   color: white;
+  font-weight: 700;
 }
+/* Buttons */
 
 .disabled {
   opacity: 0.5;
   cursor: not-allowed;
+  font-weight: 700;
 }
