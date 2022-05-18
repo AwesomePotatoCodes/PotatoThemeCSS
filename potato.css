@@ -101,3 +101,9 @@
   cursor: not-allowed;
   font-weight: 700;
 }
+
+.input {
+  border-color: #ff005d;
+  caret-color: #ff005d;
+  padding: 10px 40px;
+}
