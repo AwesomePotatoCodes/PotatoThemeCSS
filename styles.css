@@ -6,6 +6,18 @@
   border-width: 5px;
 }
 
+.big {
+  font-size: 36.5px;
+}
+
+.medium {
+  font-size: 21px;
+}
+
+.small {
+  font-size: 12px;
+}
+
 .red {
   font-family: monospace;
   color: #ff005d;
