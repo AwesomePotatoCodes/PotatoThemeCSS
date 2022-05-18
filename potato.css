@@ -42,3 +42,42 @@
   font-family: monospace;
   color: #a6ff00;
 }
+
+.green {
+  font-family: monospace;
+  color: #03fc4e;
+}
+
+.seafoam {
+  font-family: monosapce;
+  color: #0dffaa; 
+}
+
+.blue {
+  font-family: monospace;
+  color: #03dffc;
+}
+
+.navy {
+  font-family: monospace;
+  color: #000080;
+}
+
+.button {
+  padding: 10px 40px;
+  border-radius: 8px;
+  transition-duration: 0.2s;
+  border-color: #DC143C;
+  background-color: white;
+}
+
+.button:hover {
+  background-color: red;
+  border-color: #F8F8FF;
+  color: white;
+}
+
+.disabled {
+  opacity: 0.5;
+  cursor: not-allowed;
+}
