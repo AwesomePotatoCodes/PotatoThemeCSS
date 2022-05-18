@@ -1,4 +1,32 @@
 .title {
   font-family: monospace;
-  color: 
+  text-align: center;
+  font-size: 36.5px;
+  border-style: dashed;
+  border-width: 5px;
+}
+
+.red {
+  font-family: monospace;
+  color: #ff005d;
+}
+
+scarlet {
+  font-family: monospace;
+  color: #FF2400;
+}
+
+.orange {
+  font-family: monospace;
+  color: #ffa200;
+}
+
+.yellow {
+  font-family: monospace;
+  color: #fff200;
+}
+
+.lime {
+  font-family: monospace;
+  color: #a6ff00;
 }
