@@ -171,5 +171,12 @@
 div.notice {
   border-left-style: solid;
   border-left-color: #ff0022;
-  border-left-width: 4px
+  border-left-width: 4px;
+  background-color: #ff667a;
+  height: 25px;
+  width: 50%;
+}
+
+.notice-text {
+  padding: 50px 0;
 }
