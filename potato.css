@@ -54,6 +54,12 @@
   font-weight: 700;
 }
 
+.flare {
+  font-family: monospace;
+  color: #ffc31f;
+  font-weight: 700;
+}
+
 .yellow {
   font-family: monospace;
   color: #fff200;
