@@ -119,6 +119,7 @@
   padding: 10px 40px;
   font-family: monospace;
   background-color: white;
+  border-radius: 8px;
 }
 
 .option {
@@ -128,4 +129,5 @@
   font-family: monospace;
   padding: 10px 40px;
   background-color: white;
+  border-radius: 8px;
 }
