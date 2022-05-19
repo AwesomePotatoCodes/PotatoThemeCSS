@@ -131,3 +131,19 @@
   background-color: white;
   border-radius: 8px;
 }
+
+.link:link {
+  color: #ff005d;
+}
+
+.link:visited {
+  color: #ff367f;
+}
+
+.link:hover {
+  color: #d4004e;
+}
+
+.link:active {
+  color: ##9c0039;
+}
