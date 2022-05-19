@@ -132,18 +132,18 @@
   border-radius: 8px;
 }
 
-.link:link {
-  color: #ff005d;
+.link:link { /* Link Unvisited */
+  color: #ff1c4d;
 }
 
-.link:visited {
-  color: #ff367f;
+.link:visited { /* Link Visited */
+  color: #1500ff;
 }
 
-.link:hover {
-  color: #d4004e;
+.link:hover { /* Not Sure */
+  color: #8a0039;
 }
 
-.link:active {
+.link:active { /* Not Sure */
   color: ##9c0039;
 }
