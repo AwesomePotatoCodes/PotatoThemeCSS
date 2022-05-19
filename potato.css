@@ -14,16 +14,19 @@
 .big {
   font-size: 36.5px;
   font-weight: 700;
+  font-family: monospace;
 }
 
 .medium {
   font-size: 21px;
   font-weight: 700;
+  font-family: monospace;
 }
 
 .small {
   font-size: 12px;
   font-weight: 700;
+  font-family: monospace;
 }
 
 /* Colors */
