@@ -36,6 +36,12 @@
   font-weight: 700;
 }
 
+.white {
+  font-family: monospace;
+  color: #ffffff;
+  font-weight: 700;
+}
+
 .red {
   font-family: monospace;
   color: #ff005d;
