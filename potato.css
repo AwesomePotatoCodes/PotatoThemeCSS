@@ -170,9 +170,9 @@
 
 div.notice {
   border-left-style: solid;
-  border-left-color: #ff0022;
-  border-left-width: 4px;
-  background-color: #ff667a;
+  border-left-color: #ff005d;
+  border-left-width: 8px;
+  background-color: #ffb5bf;
   height: 25px;
   width: 50%;
 }
