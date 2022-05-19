@@ -30,6 +30,12 @@
 }
 
 /* Colors */
+.black {
+  font-family: monospace;
+  color: #3d3d3d;
+  font-weight: 700;
+}
+
 .red {
   font-family: monospace;
   color: #ff005d;
