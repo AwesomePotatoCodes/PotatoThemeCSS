@@ -101,6 +101,24 @@
   color: #000080;
   font-weight: 700;
 }
+
+.purple {
+  font-family: monospace;
+  color: #8d42f5;
+  font-weight: 700;
+}
+
+.dream {
+  font-family: monospace;
+  color: #c242f5;
+  font-weight: 700;
+}
+
+.pink {
+  font-family: monospace;
+  color: #f542ef;
+  font-weight: 700;
+}
 /* Colors */
 
 /* Buttons */
